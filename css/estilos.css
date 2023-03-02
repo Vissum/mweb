@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 body {
 	background-image: url(/conta/imagenes/fondo1.jpeg);
+=======
+.fondo {
+	background-image: url(https://c0.wallpaperflare.com/preview/900/707/759/shinjuku-japan-night-tokyo.jpg);
+>>>>>>> 870ad375f8d8fd5972444295313c0f2e7a41bfd5
     height: 100vh; 
     background-position: center;
     background-repeat: no-repeat;
